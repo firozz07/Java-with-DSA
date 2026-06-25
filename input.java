@@ -7,5 +7,7 @@ public class input {
         int square=sc.nextInt();
         System.out.print("square is : ");
         System.out.println(square*square); 
+        sc.close();
     }
+    
 }
